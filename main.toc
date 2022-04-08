@@ -1,0 +1,5 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Task 1: Conductivity of Metal Foils}{3}{}%
+\contentsline {section}{\numberline {3}Task 2: Hall voltage $V_{H}$}{4}{}%
+\contentsline {section}{\numberline {4}Task 3: Hall coefficient}{5}{}%
